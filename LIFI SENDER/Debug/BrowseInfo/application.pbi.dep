@@ -1,0 +1,14 @@
+C:\embedded_programming\Final\ Li\ Fi\Debug\BrowseInfo\application.pbi: \
+  C:\embedded_programming\Final\ Li\ Fi\application.c \
+  C:\embedded_programming\Final\ Li\ Fi\application.h \
+  C:\embedded_programming\Final\ Li\ Fi\magnetic.h \
+  C:\embedded_programming\Final\ Li\ Fi\dio.h \
+  C:\embedded_programming\Final\ Li\ Fi\types.h \
+  C:\embedded_programming\Final\ Li\ Fi\tm4c123gh6pm.h \
+  C:\embedded_programming\Final\ Li\ Fi\bitwise_operation.h \
+  C:\embedded_programming\Final\ Li\ Fi\ultrasonic.h \
+  C:\embedded_programming\Final\ Li\ Fi\timer0.h \
+  C:\embedded_programming\Final\ Li\ Fi\smoke.h \
+  C:\embedded_programming\Final\ Li\ Fi\timer.h \
+  C:\embedded_programming\Final\ Li\ Fi\uart.h \
+  C:\embedded_programming\Final\ Li\ Fi\allsensors.h
