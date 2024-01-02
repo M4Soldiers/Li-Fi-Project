@@ -1,21 +1,20 @@
 C:\embedded_programming\Final\ Li\ Fi\Debug\BrowseInfo\main.pbi: \
-  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\ycheck.h \
-  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\ysizet.h \
-  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\DLib_Product.h \
-  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\DLib_Config_Normal.h \
-  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\DLib_Defaults.h \
-  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\yvals.h \
-  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\stdio.h \
-  C:\embedded_programming\Final\ Li\ Fi\allsensors.h \
-  C:\embedded_programming\Final\ Li\ Fi\uart.h \
-  C:\embedded_programming\Final\ Li\ Fi\timer.h \
-  C:\embedded_programming\Final\ Li\ Fi\smoke.h \
-  C:\embedded_programming\Final\ Li\ Fi\timer0.h \
-  C:\embedded_programming\Final\ Li\ Fi\ultrasonic.h \
-  C:\embedded_programming\Final\ Li\ Fi\dio.h \
-  C:\embedded_programming\Final\ Li\ Fi\magnetic.h \
-  C:\embedded_programming\Final\ Li\ Fi\application.h \
-  C:\embedded_programming\Final\ Li\ Fi\types.h \
-  C:\embedded_programming\Final\ Li\ Fi\bitwise_operation.h \
+  C:\embedded_programming\Final\ Li\ Fi\main.c \
   C:\embedded_programming\Final\ Li\ Fi\tm4c123gh6pm.h \
-  C:\embedded_programming\Final\ Li\ Fi\main.c
+  C:\embedded_programming\Final\ Li\ Fi\bitwise_operation.h \
+  C:\embedded_programming\Final\ Li\ Fi\types.h \
+  C:\embedded_programming\Final\ Li\ Fi\application.h \
+  C:\embedded_programming\Final\ Li\ Fi\magnetic.h \
+  C:\embedded_programming\Final\ Li\ Fi\dio.h \
+  C:\embedded_programming\Final\ Li\ Fi\ultrasonic.h \
+  C:\embedded_programming\Final\ Li\ Fi\smoke.h \
+  C:\embedded_programming\Final\ Li\ Fi\timer.h \
+  C:\embedded_programming\Final\ Li\ Fi\uart.h \
+  C:\embedded_programming\Final\ Li\ Fi\allsensors.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\stdio.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\ycheck.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\yvals.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\DLib_Defaults.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\DLib_Config_Normal.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\DLib_Product.h \
+  C:\Program\ Files\IAR\ Systems\Embedded\ Workbench\ 9.0\arm\inc\c\ysizet.h
