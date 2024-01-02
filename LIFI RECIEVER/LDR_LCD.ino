@@ -59,7 +59,7 @@ void loop() {
         // }
         lcd.setCursor(0, 0);
         lcd.print("Magnetic sensor detected");
-        delay(2000);
+        delay(4000);
         lcd.clear();
         //digitalWrite(buzzerPin, LOW);
       } else if (elapsedTime >= 2500 && elapsedTime<3500) {
@@ -74,7 +74,7 @@ void loop() {
         // }
         lcd.setCursor(0, 0);
         lcd.print("Smoke sensor detected");
-        delay(2000);
+        delay(4000);
         lcd.clear();
       } else if (elapsedTime>= 4500 && elapsedTime<5500) {
         Serial.println("Ultrasonic Sensor Detected");
@@ -88,7 +88,7 @@ void loop() {
         // }
         lcd.setCursor(0, 0);
         lcd.print("ultrasonic detected");
-        delay(2000);
+        delay(4000);
         lcd.clear();
 
       }
