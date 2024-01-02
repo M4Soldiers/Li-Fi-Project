@@ -30,6 +30,7 @@ void sensors_start(uint32_t ultrasonic_value)
         DIO_WritePin(PORT_F,2, 1);
         LDR_Delay(5000);
         DIO_WritePin(PORT_F,2, 0);
+        and_bluetooth();
         /************************/
         magnet_value = 4;
         delay_sw(1000);
@@ -37,6 +38,7 @@ void sensors_start(uint32_t ultrasonic_value)
         DIO_WritePin(PORT_F,2, 1);
         LDR_Delay(1000);
         DIO_WritePin(PORT_F,2, 0);
+        and_bluetooth();
         /************************/
         smoke_value = 4;
         delay_sw(1000);
@@ -52,6 +54,7 @@ void sensors_start(uint32_t ultrasonic_value)
         DIO_WritePin(PORT_F,2, 1);
         LDR_Delay(1000);
         DIO_WritePin(PORT_F,2, 0);
+        and_bluetooth();
         /***********************/
         smoke_value = 4;
         smoke_bluetooth();
@@ -65,6 +68,7 @@ void sensors_start(uint32_t ultrasonic_value)
         DIO_WritePin(PORT_F,2, 1);
         LDR_Delay(5000);
         DIO_WritePin(PORT_F,2, 0);
+        and_bluetooth();        
         /************************/
         smoke_value = 4;
         delay_sw(1000);
@@ -79,6 +83,7 @@ void sensors_start(uint32_t ultrasonic_value)
         DIO_WritePin(PORT_F,2, 1);
         LDR_Delay(5000);
         DIO_WritePin(PORT_F,2, 0);
+        and_bluetooth();        
         /************************/
         magnet_value = 4;
         delay_sw(1000);
